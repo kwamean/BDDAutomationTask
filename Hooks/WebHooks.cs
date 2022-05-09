@@ -19,6 +19,7 @@ namespace BDDAutomationTask.Hooks
         {
             driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
             driver.Manage().Window.Maximize();
+            driver.Navigate().GoToUrl("https://testscriptdemo.com");
             //TODO: implement logic that has to run before executing each scenario
         }
 
