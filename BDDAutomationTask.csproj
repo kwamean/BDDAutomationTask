@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Drivers\" />
-    <Folder Include="Hooks\" />
+    <Folder Include="PageObjects\" />
   </ItemGroup>
 
 </Project>
