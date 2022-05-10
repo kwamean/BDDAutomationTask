@@ -1,4 +1,4 @@
-﻿//this is an automation assignment as such though is public on github for assessment is content at solely for the intended client
+﻿//this is an automation assignment as such though is public on github for assessment, its content at solely for the intended client
 
 namespace BDDAutomationTask.Hooks
 {
